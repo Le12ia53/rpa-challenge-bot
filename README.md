@@ -197,8 +197,4 @@ O sistema registra:
 Vanderleia Matos
 Especialista em AI, automação e engenharia de sistemas
 
----
 
-## Licença
-
-Uso educacional e técnico
